@@ -1,0 +1,5 @@
+Credentials cache: API:0D39EE54-807C-4012-AF23-077926B60106
+        Principal: esuguimo@42SP.ORG.BR
+
+  Issued                Expires               Principal
+Oct  2 19:11:46 2019  Oct  9 19:11:37 2019  krbtgt/42SP.ORG.BR@42SP.ORG.BR
