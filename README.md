@@ -2,29 +2,29 @@
 Meus arquivos de piscina
 ## Table of contents
 
-| Project        	| PDF                          	| Solutions  and Scores               	|
+| Project        	| PDF                          	| Score                             	|
 |----------------	|------------------------------	|------------------------------------	|
-| Shell00         	| [10 exercises]()          	| [9 exercises]()                   	|
-| Shell01         	| [10 exercises]()          	| [9 exercises]()                   	|
-| C00           	| [10 exercises]()          	| [9 exercises]()                   	|
-| C01           	| [10 exercises]()          	| [9 exercises]()                   	|
-| C02           	| [9 exercises]()           	| [8 exercises]()                   	|
-| C03           	| [10 exercises]()          	| [10 exercises]()                  	|
-| C04            	| [10 exercises]()          	| [9 exercises]()                   	|
-| C05           	| [24 exercises]()          	| [21 exercises]()                  	|
-| C06           	| [5 exercises]()           	| [5 exercises]()                   	|
-| C07           	| [8 exercises]()           	| [8 exercises]()                   	|
-| C08           	| [7 exercises]()           	| [7 exercises]()                   	|
-| C09           	| [7 exercises]()             	| [24 exercises]()                  	|
-| C10           	| [10 exercises]()          	| [10 exercises]()                  	|
-| C11           	| [18 exercises]()          	| [17 exercises]()                  	|
-| C12           	| [5 exercises]()           	| [2 exercises]()                   	|
-| C13           	| [10 exercises]()          	| [8 exercises]()                   	|
-| Rush00        	| [Print rectangles]()      	| [Zero + bonus]()                  	|
-| Rush01        	| [Towers solver]()         	| [Zero]()                          	|
-| Rush02        	| [Numbers Dictionary]()    	| [Zero]()                          	|
-| Exam00        	| []()                       	| [Unefficient, but it works]()        	|
-| Exam01        	| []()                      	| [Beautiful]()                     	|
-| Exam02        	| []()                      	| [Not bad]()                        	|
-| BSQ            	| [Big Square]()               	| [Fastest but tricky]()              	|
-| Final Exam       	| []()                       	| [Fastest but tricky]()              	|
+| Shell00         	| [10 exercises]()          	| [100%]()                            	|
+| Shell01         	| [8 exercises]()           	| [70%]()                           	|
+| C00           	| [9 exercises]()           	| [92%]()                           	|
+| C01           	| [9 exercises]()           	| [60%]()                            	|
+| C02           	| [13 exercises]()           	| [75%]()                            	|
+| C03           	| [6 exercises]()           	| [75%]()                           	|
+| C04            	| [6 exercises]()           	| [70%]()                           	|
+| C05           	| [9 exercises]()           	| [50%]()                           	|
+| C06           	| [4 exercises]()           	| [70%]()                           	|
+| C07           	| [6 exercises]()           	| [FAIL - 7%]()                      	|
+| C08           	| [6 exercises]()           	| [FAIL - 40%]()                     	|
+| C09           	| [3 exercises]()             	| [0]()                             	|
+| C10           	| [4 exercises]()           	| [0]()                             	|
+| C11           	| [8 exercises]()           	| [0]()                             	|
+| C12           	| [18 exercises]()           	| [0]()                                	|
+| C13           	| [8 exercises]()           	| [0]()                             	|
+| Rush00        	| [Print rectangles]()      	| [FAIL - 40% + bonus]()               	|
+| Rush01        	| [Towers solver]()         	| [FAIL - 0%]()                        	|
+| Rush02        	| [Numbers Dictionary]()    	| [FAIL - 10%]()                       	|
+| Exam00        	| []()                       	| [FAIL - 0]()                      	|
+| Exam01        	| []()                      	| [FAIL - 16%]()                     	|
+| Exam02        	| []()                      	| [SUCCESS - 28%]()                    	|
+| BSQ            	| [Big Square]()               	| [GIVE UP - 0%]()                   	|
+| Final Exam       	| []()                       	| [LOADING]()                        	|
