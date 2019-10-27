@@ -1,5 +1,9 @@
 # Piscina-42sp-2019-setembro
-Meus arquivos de piscina
+Meus arquivos de piscina.
+## Contém:
+Temas em português, resolução dada por mim e arquivos adicionais (não se fiem, errei muita coisa).
+Listas com score [ 0 ]  são listas que não cheguei a entregar, porém possuem os temas.
+Divirtam-se! =ˆ.ˆ=
 ## Table of contents
 
 | Project        	| PDF                          	| Score                             	|
