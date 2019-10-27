@@ -1,0 +1,27 @@
+Assignment name  : first_word
+Expected files   : first_word.c
+Allowed functions: write
+--------------------------------------------------------------------------------
+
+Escreva um programa que tenha uma cadeia de caracteres como parâmetro e que
+exiba a primeira palavra dessa cadeia, seguida de um '\n'.
+
+Chamamos de "palavra" uma parte da cadeia de caracteres delimitada seja por
+espaços e/ou tabulações, seja pelo início / final da cadeia.
+
+Se o número de parâmetros transmitidos for diferente de 1 ou se não houver nenhuma palavra
+para exibir, o programa deve mostrar '\n'.
+
+Exemplo:
+
+$> ./first_word "FOR PONIES !!" | cat -e
+FOR$
+$> ./first_word "this        ...       is sparta, then again, maybe    not" | cat -e
+this$
+$> ./first_word "   " | cat -e
+$
+$> ./first_word "a" "b" | cat -e
+$
+$> ./first_word "  lorem,ipsum  " | cat -e
+lorem,ipsum$
+$>

@@ -1,0 +1,22 @@
+Assignment name  : aff_a
+Expected files   : aff_a.c
+Allowed functions: write
+--------------------------------------------------------------------------------
+
+Escreva um programa que tenha como parâmetro uma cadeia de caracteres e que
+exiba na saída padrão o primeiro caractere 'a' encontrado nessa
+cadeia, seguido de \n. Se nenhum 'a'
+for encontrado na cadeira, o programa deve exibir 'a' seguido de
+'\n'. Se o número de parâmetros for diferente de 1, o
+programa deve exibir 'a' seguido de '\n'.
+
+Exemplo:
+
+$> ./aff_a "abc" | cat -e
+a$
+$> ./aff_a "dubO a POIL" | cat -e
+a$
+$> ./aff_a "zaz sent le poney" | cat -e
+a$
+$> ./aff_a | cat -e
+a$
