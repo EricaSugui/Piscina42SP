@@ -23,8 +23,8 @@ Meus arquivos de piscina
 | Rush00        	| [Print rectangles]()      	| [FAIL - 40% + bonus]()               	|
 | Rush01        	| [Towers solver]()         	| [FAIL - 0%]()                        	|
 | Rush02        	| [Numbers Dictionary]()    	| [FAIL - 10%]()                       	|
-| Exam00        	| []()                       	| [FAIL - 0]()                      	|
-| Exam01        	| []()                      	| [FAIL - 16%]()                     	|
-| Exam02        	| []()                      	| [SUCCESS - 28%]()                    	|
+| Exam00        	| [login failed]()             	| [FAIL - 0]()                      	|
+| Exam01        	| [one level done]()        	| [FAIL - 16%]()                     	|
+| Exam02        	| [two levels done]()       	| [SUCCESS - 28%]()                    	|
 | BSQ            	| [Big Square]()               	| [GIVE UP - 0%]()                   	|
-| Final Exam       	| []()                       	| [LOADING]()                        	|
+| Final Exam       	| [three levels done]()        	| [FAIL - 18%]()                        |
